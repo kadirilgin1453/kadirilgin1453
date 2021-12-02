@@ -20,6 +20,7 @@
 
   <div align="center">
     <a target="_blank" href="https://t.me/sadik1453">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=EF7F1A"></a>
+    <a target="_blank" href="https://twitter.com/kadirilgin1453">               <img alt="iletisim | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   </div>
 
   ---
